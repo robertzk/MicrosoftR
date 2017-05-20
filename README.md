@@ -23,7 +23,8 @@ The full [goal specification](https://github.com/robertzk/rfinance17-notes/blob/
 outlines what we wish to accomplish: to turn all Microsoft R tools
 into a unified modeling framework.
 
-For more info see how to [operationalize R models using Azure](https://github.com/Azure/Machine-Learning-Operationalization). Other items to integrate are: [R batching](https://github.com/Azure/rAzureBatch)
+For more info see how to [operationalize R models using Azure](https://github.com/Azure/Machine-Learning-Operationalization). Other items to integrate are: [R batching](https://github.com/Azure/rAzureBatch) and
+converting [custmod](https://github.com/Azure/custmod) to mungebits.
 
 ## Other code
 
