@@ -1,9 +1,9 @@
 train <- function(data) {
-  browser()
   # TODO: (DS) replace _ with ::
-  RevoscaleR_rxLinMod(input$formula
+  output <<- list(model = RevoscaleR_rxLinMod(data, formula = input$formula))
 }
 
-predict <- function(data, options) {
+predict <- function(data, options = list()) {
+  do.call(output$model$predict, c(list(data), options))
 }
 
