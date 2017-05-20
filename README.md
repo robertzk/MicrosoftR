@@ -4,6 +4,9 @@ A [Syberia](https://github.com/syberia/syberia) engine written at an
 [R in Finance 2017](https://github.com/robertzk/rfinance17) conference 30-min break
 to operationalize Microsoft R tooling.
 
+See the [model file example](https://github.com/robertzk/MicrosoftR/blob/master/models/dev/lendingclub.R)
+that will illustrate RevoscaleR models.
+
 ```r
 # Open R from the root of this project and execute:
 run('lending')
