@@ -8,6 +8,8 @@ model$predict(iris, verbose = TRUE)
 
 You should see a stubbed message.
 
+![Example run](example.png)
+
 ## Overview
 
 Note: This is copied from the [modeling engine](https://github.com/robertzk/MicrosoftR).
