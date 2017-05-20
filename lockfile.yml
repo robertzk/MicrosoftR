@@ -1,0 +1,54 @@
+packages:
+  -
+    name: devtools
+    version: 1.12.0
+    repo: hadley/devtools
+    ref: v1.12.0
+  - 
+    name: checkr
+    version: 0.1.4
+    repo: syberia/checkr
+  - 
+    name: s3mpi
+    version: 0.2.40
+    repo: robertzk/s3mpi
+  -
+    name: objectdiff
+    version: 0.2.3.9003
+    repo: robertzk/objectdiff
+  -
+    name: stagerunner
+    version: 0.5.6
+    repo: syberia/stagerunner
+  -
+    name: Ramd
+    version: 0.3.8
+    repo: robertzk/Ramd
+  -
+    name: statsUtils
+    version: 0.1.4
+    repo: robertzk/statsUtils
+  -
+    name: mungebits2
+    version: 0.1.0.9014
+    repo: syberia/mungebits2
+  -
+    name: syberiaMungebits2
+    version: 0.1.2.9002
+    repo: syberia/syberiaMungebits2
+  -
+    name: director
+    version: 0.3.0.5.9000
+    repo: syberia/director
+  -
+    name: tundra
+    version: 0.3.0.9000
+    repo: syberia/tundra
+  -
+    name: syberia
+    version: 0.6.1.9009
+    repo: syberia/syberia
+    ref: 0.6.1.9009
+  -
+    name: gbm
+    version: 2.1.1
