@@ -1,5 +1,6 @@
 packages:
-  -
+  # TODO: (RK) Incorporate mrsdeploy and RevoscaleR into lockbox.
+  - 
     name: devtools
     version: 1.12.0
     repo: hadley/devtools
