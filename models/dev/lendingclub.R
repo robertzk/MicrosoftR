@@ -5,7 +5,10 @@ list(
     "Example var"    = list(example),
     "Create ID var"  = list(multi_column_transformation(seq_along), "dep_var", "id")
   ),
-  model  = list("lm", .id_var = "id"),
-  export = list(R = "model")
+  model  = list("lm",
+    .id_var = "id",
+    formula = Sepal.Length ~ .
+  )
+  , export = list(R = "model")
 )
 
