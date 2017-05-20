@@ -17,6 +17,12 @@ You should see a stubbed message.
 
 ![Example run](example.png)
 
+## Goal
+
+The full [goal specification](https://github.com/robertzk/rfinance17-notes/blob/master/random-ideas.md#revolution-analytics--microsoft-engine) 
+outlines what we wish to accomplish: to turn all Microsoft R tools
+into a unified modeling framework.
+
 ## Other code
 
 In the near future we will integrate the capabilities illustrated in the
